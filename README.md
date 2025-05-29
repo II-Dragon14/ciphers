@@ -1,4 +1,4 @@
-# ciphers
+# Ciphers
 
 This is a super fun code for a superfun cipher encoder and decoder.
 Use it to send secret codes to your friends!
